@@ -17,10 +17,11 @@ simonl01@Ulocalhost:~$ ls -la .profile
 -rw-r--r--  1 simonl01 alwayscurious   897 Oct 24 23:05 .profile
 
 simonl01@Ulocalhost:~$ ls interests/
+Red Teaming
+Penetration-Testing
 Exploitation
 Forensics
-OS
-Penetration-Testing
+OS/Kernel
 Reverse-engineering
 Vunerability
 ```
